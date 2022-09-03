@@ -9,6 +9,7 @@ public class While_loops {
             System.out.println("Hello");
             i++;
         }
+        System.out.println("This is a git test");
 
     }
 }
